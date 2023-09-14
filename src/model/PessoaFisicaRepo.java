@@ -13,9 +13,4 @@ public class PessoaFisicaRepo {
     public void inserir(PessoaFisica pessoa) {
         this.pessoasFisicas.add(pessoa);
     }
-
-    
-    
-
-    
 }
