@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author olive
+ * @author AlarconAbap
  */
 public class Pessoa implements Serializable {
 
